@@ -90,7 +90,4 @@
         box-sizing: border-box;
         padding-left: 8px;
     }
-    .new {
-        margin-top: 40px;
-    }
 </style>
