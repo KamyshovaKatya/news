@@ -25,7 +25,7 @@
       </v-btn>
     </v-app-bar>
 
-    <v-main class="light-green lighten-5">
+    <v-main class="amber amber lighten-5">
       <v-container>
         <v-row>
           <v-col v-for="i in news"
